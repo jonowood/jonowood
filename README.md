@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonowood&show_icons=true&locale=en&layout=compact" alt="jonowood" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonowood&show_icons=true&locale=en" alt="jonowood" /></p>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7031536893129347072" height="543" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
